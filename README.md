@@ -1,4 +1,4 @@
-# ToDo-App-FE
+# ToDo-App-Front-End
 
 A task management app where users can create, view, edit, complete, and delete tasks. Tasks can be grouped by date, filtered by status (active/completed), and optionally categorized by tags or priority levels.
 
